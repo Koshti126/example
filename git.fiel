@@ -1,0 +1,23 @@
+init the file --->git init
+git status  ----->to check the tracked file status
+git add file name ------> add the file fot the use this command
+git commit ---> to write  the message
+git -A ----> to add the all file to use this command
+git commint -m "the mesage" ----->short cut trick for the comming the message
+git checkout file name ---->recover the file path
+git checkout -f ----> recover the all the file(match the last commmit
+gti log --->for showing the commit how many file you are commited
+git log -p -no of commit you will need to show them
+git commint -a -m -------->to use for the skipped commit step
+git rm file name to remove the file.
+git rm --catched file name ----->to use the remove the only git staging area
+git status -s --->to show the short status for the all the track files
+
+git branch add feature ----->(ex)git branch to add some work merging the files to use branch(to make the branch name)
+git merge feature1 ----> merging the file to feature1 to marster file
+gti checkout -b foldername -----> to switching the branch
+git remote add origin https://github.com/Koshti126/example.git ------connect the local file to git repositry link
+git remote ---->always origin
+git remote- v --->fetch push link
+git push origin master -----> push the code on git hub
+
